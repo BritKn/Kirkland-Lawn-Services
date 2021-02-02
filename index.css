@@ -1,0 +1,27 @@
+.navbar {
+    height: 80px;
+    width: 100%;
+    background: rgb(255, 255, 255);
+    display: flex;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+h1 {
+    font-family: 'Russo One', sans-serif;
+    margin-left: 10%;
+    display: block;
+}
+
+h2 {
+    font-family: 'Russo One', sans-serif;
+    display: block;
+    margin-left: 56%;
+}
+
+/* Change background on mouse-over */
+
+/* Main content */
+.main {
+    margin-top: 30px;
+    /* Add a top margin to avoid content overlay */
+}
